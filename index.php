@@ -1,9 +1,9 @@
 <?php
 session_start();
-$host = "localhost";
-$user = "root";
-$pass = "yourpassword"; // Change this!
-$db = "ctf_challenge";
+$host = "dpg-cv6kvm2j1k6c73e5si90-a";
+$user = "adeel";
+$pass = "X90ODjJsPX1mc8G7NwsQJDhqaxNxt6QP"; // Change this!
+$db = "respawn_ctf";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
